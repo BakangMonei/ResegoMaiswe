@@ -1,6 +1,7 @@
 # Circu.it
 
-Circu.it is an Android application developed using Java and Firebase. It provides a platform for users to create and join circuits, enabling them to engage in discussions, share ideas, and collaborate on various topics.
+Circu.it is an Android application designed to facilitate discussions, information sharing, and collaboration among computer enthusiasts, particularly focusing on computer components.
+
 
 ## Tools Used
 - Android Studio
