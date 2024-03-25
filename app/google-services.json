@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "302634321245",
+    "firebase_url": "https://resssssmaisweee-default-rtdb.firebaseio.com",
+    "project_id": "resssssmaisweee",
+    "storage_bucket": "resssssmaisweee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302634321245:android:eda8b22c3cec5fc26954b4",
+        "android_client_info": {
+          "package_name": "com.example.suit_case_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302634321245-mdgnp65l81jdf148hf7kfjnscqg6386f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5I93ochxwozqsMhm7zry3BqD4TILfm5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302634321245-mdgnp65l81jdf148hf7kfjnscqg6386f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
